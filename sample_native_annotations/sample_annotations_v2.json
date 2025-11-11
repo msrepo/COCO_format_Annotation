@@ -1,0 +1,50 @@
+[
+    {
+        "id": "ann-1758266484282-xqzz5u",
+        "type": "rectangle",
+        "label": "rectangle on top right",
+        "tool": "rectangle",
+        "visible": true,
+        "locked": true,
+        "coords": {
+            "left": 0.853333,
+            "top": 0.002564,
+            "width": 0.142564,
+            "height": 0.141538
+        }
+    },
+    {
+        "id": "ann-1758266430320-qc9s1f",
+        "type": "polygon",
+        "label": "Polygon over the bridge",
+        "tool": "polygon",
+        "visible": true,
+        "locked": true,
+        "coords": {
+            "left": 0.529284,
+            "top": 0.511893,
+            "points": [
+                {
+                    "x": 0.602642,
+                    "y": 0.515214
+                },
+                {
+                    "x": 0.669265,
+                    "y": 0.513945
+                },
+                {
+                    "x": 0.850731,
+                    "y": 0.973321
+                },
+                {
+                    "x": 0.838675,
+                    "y": 0.996162
+                },
+                {
+                    "x": 0.53031,
+                    "y": 0.997431
+                }
+            ]
+        }
+    }
+]
